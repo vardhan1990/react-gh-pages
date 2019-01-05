@@ -1,5 +1,5 @@
 {
-  "short_name": "Vardhan Dugar",
+  "short_name": "Vardhan",
   "name": "Vardhan Dugar",
   "icons": [
     {
@@ -9,7 +9,7 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "browser",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#D6D8D5"
 }
