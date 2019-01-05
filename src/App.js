@@ -8,13 +8,13 @@ class App extends Component {
       <div className="App-sections">
         <img src={ProfilePic} className="App-section1" />
         <header className="App-section2">
-          <p className="header">Vardhan Dugar</p>
-          <p className="text">I live in Seattle.</p>
-          <p className="text">I write code for a living.</p>
-          <p className="text">I like to ski, run, swim and hike.</p>
-          <p className="text">I like good food and good board games.</p>
-          <p className="text">I walk dogs.</p>
-          <p className="text">I will add more content to this site to make it worth your while.</p>
+          <h1 className="header">Vardhan Dugar</h1>
+          <h3 className="text">I live in Seattle.</h3>
+          <h3 className="text">I write code for a living.</h3>
+          <h3 className="text">I like to ski, run, swim and hike.</h3>
+          <h3 className="text">I like good food and good board games.</h3>
+          <h3 className="text">I walk dogs. Others', not my own. I am not adult enough to have my own pets.</h3>
+          <h3 className="text">I will add more content to this site to make it worth your while.</h3>
         </header>
       </div>
     );
