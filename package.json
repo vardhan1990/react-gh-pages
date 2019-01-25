@@ -1,8 +1,8 @@
 {
-  "name": "react-gh-pages",
+  "name": "main",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vardhan1990.github.io/react-gh-pages",
+  "homepage": "https://vardhan1990.github.io/main",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
