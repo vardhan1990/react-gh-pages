@@ -4,9 +4,9 @@
   flex-flow: row wrap-reverse;
   justify-content: space-evenly;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   align-content: space-between;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .App-section1 {
